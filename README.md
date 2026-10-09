@@ -105,9 +105,6 @@ Anomaly Detection, and Efficiency & Sustainability. See `powerbi/` for the
 
 SQL, Data Cleaning, CTEs, Window Functions, Trend Analysis, Z-Score Anomaly Detection, Power Query (M), DAX, Power BI Dashboard Design, and Data Visualization.
 
-## 8. How to Run
-
-Open `sql/datacenter_sql_project.sql` in PostgreSQL and execute the queries against a database containing the project dataset. Open `powerbi/global_data_analysis.pbix` in Power BI Desktop to explore the dashboard.
-
-**Note:** Ensure the dataset is imported into PostgreSQL before running the SQL script.
-```
+<WritingBlock id="84216" variant="standard">## 8. How to Run
+Open sql/datacenter_sql_project.sql in PostgreSQL and execute the queries against a database containing the project dataset. Open powerbi/global_data_analysis.pbix in Power BI Desktop to explore the dashboard.
+Note: Import the dataset into PostgreSQL before running the SQL script.</WritingBlock>
