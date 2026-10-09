@@ -1,0 +1,155 @@
+record_id,country,region,year,num_data_centers,electricity_twh,water_million_liters,renewable_energy_pct,avg_pue
+46,Ireland,Europe,2020,106,6.07,7671.1,40.1,1.452
+11,China,Asia Pacific,2015,600,50.0,108725.6,15,2.0
+119,Australia,Asia Pacific,2023,201,10.2,27189.3,37.3,1.566
+143,Canada,North America,2017,156,7.95,10619.0,57.6,1.613
+38,United Kingdom,Europe,2022,194,10.35,15150.7,41.2,1.581
+77,India,Asia Pacific,2021,433,19.82,59415.6,33.8,1.667
+137,Brazil,South America,2021,167,8.49,22067.6,52.6,1.628
+60,Netherlands,Europe,2024,175,8.8,13885.0,47.7,1.4
+150,Canada,North America,2024,229,13.06,19465.5,66.0,1.381
+47,Ireland,Europe,2021,118,6.93,9511.3,42.3,1.407
+92,Singapore,Asia Pacific,2016,97,5.47,12233.2,6.0,1.572
+19,China,Asia Pacific,2023,1111,113.79,256911.8,29.9,1.766
+40,United Kingdom,Europe,2024,213,12.04,16912.5,45.7,1.523
+35,United Kingdom,Europe,2019,169,8.8,12491.8,34.5,1.634
+104,South Korea,Asia Pacific,2018,217,11.14,23821.2,17.4,1.635
+154,China,Asia Pacific,2021,952,89.85,191780.9,26.0,1.827
+56,Netherlands,Europe,2020,136,6.02,8991.8,39.2,1.49
+90,Japan,Asia Pacific,2024,427,24.75,45850.8,35.9,1.472
+94,Singapore,Asia Pacific,2018,113,6.68,13042.1,8.4,1.535
+36,United Kingdom,Europe,2020,177,9.29,13156.7,36.6,1.619
+114,Australia,Asia Pacific,2018,153,7.33,20480.9,27.8,1.681
+125,United Arab Emirates,Middle East,2019,98,6.18,19402.7,19.5,1.661
+45,Ireland,Europe,2019,94,5.24,6446.3,38.1,1.49
+59,Netherlands,Europe,2023,164,7.85,11122.8,45.4,1.419
+133,Brazil,South America,2017,126,6.02,17482.4,,1.746
+85,Japan,Asia Pacific,2019,351,18.67,35324.0,27.6,1.605
+15,China,Asia Pacific,2019,816,74.43,170485.8,22.4,1.885
+116,Australia,Asia Pacific,2020,171,8.34,21707.1,31.8,1.645
+89,Japan,Asia Pacific,2023,411,22.88,47872.0,34.4,1.495
+30,Germany,Europe,2024,229,14.15,24281.2,48.9,1.436
+129,United Arab Emirates,Middle East,2023,137,9.81,31870.3,28.7,1.551
+5,United States,North America,2019,1056,84.17,171769.8,25.7,1.813
+1,United States,North America,2015,800,60.0,116617.6,20,1.9
+132,Brazil,South America,2016,118,5.49,14255.3,,1.783
+75,India,Asia Pacific,2019,361,15.77,43763.0,28.6,1.726
+66,France,Europe,2020,152,8.01,12052.7,42.9,1.542
+68,France,Europe,2022,167,9.2,14729.5,45.9,1.47
+113,Australia,Asia Pacific,2017,145,6.76,18879.8,25.8,1.703
+2,United States,North America,2016,858,64.77,130286.8,21.7,1.883
+152,France,Europe,2019,145,7.53,11553.9,41.4,1.569
+28,Germany,Europe,2022,208,12.14,18597.1,44.6,1.491
+87,Japan,Asia Pacific,2021,380,20.44,41234.9,31.3,1.564
+42,Ireland,Europe,2016,67,3.43,4117.4,32.2,1.58
+140,Brazil,South America,2024,206,11.82,34138.8,56.7,1.519
+120,Australia,Asia Pacific,2024,212,11.23,28386.6,39.6,1.539
+135,Brazil,South America,2019,145,7.2,18126.0,50.3,1.682
+57,Netherlands,Europe,2021,145,6.44,10123.3,41.5,1.465
+6,United States,North America,2020,1133,92.87,199903.0,27.4,1.786
+144,Canada,North America,2018,165,8.53,12806.0,58.7,1.582
+73,India,Asia Pacific,2017,300,12.64,35728.9,,1.807
+70,France,Europe,2024,183,10.67,16176.5,48.8,1.416
+109,South Korea,Asia Pacific,2023,296,16.88,32431.2,26.6,1.474
+76,India,Asia Pacific,2020,395,17.72,51142.7,31.2,1.696
+9,United States,North America,2023,1395,121.18,244221.4,32.4,1.697
+24,Germany,Europe,2018,173,9.53,14984.4,36.1,1.624
+111,Australia,Asia Pacific,2015,130,6.0,16025.7,22,1.75
+153,Singapore,Asia Pacific,2020,132,8.16,18109.6,10.9,1.5
+126,United Arab Emirates,Middle East,2020,107,6.93,20548.8,21.9,1.626
+4,United States,North America,2018,986,76.53,151212.6,24.4,1.835
+136,Brazil,South America,2020,156,7.77,20327.5,51.5,1.645
+107,South Korea,Asia Pacific,2021,261,14.19,29322.0,23.1,1.537
+82,Japan,Asia Pacific,2016,312,15.83,29902.5,22.0,1.708
+80,India,Asia Pacific,2024,570,29.88,148377.0,42.1,1.566
+91,Singapore,Asia Pacific,2015,90,5.0,10968.7,5,1.6
+67,France,Europe,2021,159,8.58,13918.1,44.4,1.513
+50,Ireland,Europe,2024,166,11.55,16111.6,48.3,1.319
+138,Brazil,South America,2022,179,9.29,24256.3,54.1,1.593
+3,United States,North America,2017,919,70.34,130269.5,23.0,1.853
+26,Germany,Europe,2020,190,10.94,16883.0,40.4,1.555
+105,South Korea,Asia Pacific,2019,231,-11.9,23772.0,19.5,1.607
+48,Ireland,Europe,2022,133,8.03,9980.2,44.5,1.37
+102,South Korea,Asia Pacific,2016,192,9.66,18853.5,13.9,1.68
+41,Ireland,Europe,2015,60,3.0,3801.8,30,1.6
+78,India,Asia Pacific,2022,475,22.32,60082.9,36.7,1.624
+99,Singapore,Asia Pacific,2023,167,11.1,22039.6,14.8,1.431
+122,United Arab Emirates,Middle East,2016,76,4.4,12638.4,,1.766
+23,Germany,Europe,2017,165,8.92,13271.3,34.1,1.646
+12,China,Asia Pacific,2016,648,54.72,116529.8,16.9,1.971
+32,United Kingdom,Europe,2016,147,7.42,10340.3,27.5,1.715
+25,Germany,Europe,2019,181,10.21,16464.7,38.1,1.596
+88,Japan,Asia Pacific,2022,395,21.43,43702.1,32.8,1.54
+124,United Arab Emirates,Middle East,2018,90,5.51,17105.2,17.1,1.701
+55,Netherlands,Europe,2019,128,5.51,8473.3,36.9,1.528
+98,Singapore,Asia Pacific,2022,154,9.77,19298.6,13.8,1.449
+43,Ireland,Europe,2017,75,3.99,5222.2,34.2,1.561
+127,United Arab Emirates,Middle East,2021,116,7.59,22049.3,24.0,1.6
+29,Germany,Europe,2023,218,13.12,19325.2,46.8,1.468
+118,Australia,Asia Pacific,2022,190,9.3,23140.8,35.3,1.603
+141,Canada,North America,2015,140,7.0,9043.4,55,1.7
+65,France,Europe,2019,145,7.53,11553.9,41.4,1.569
+145,Canada,North America,2019,174,9.03,13428.0,60.2,1.552
+10,United States,North America,2024,1496,134.32,276392.8,33.7,1.676
+130,United Arab Emirates,Middle East,2024,150,11.34,36061.7,31.0,1.52
+123,United Arab Emirates,Middle East,2017,83,4.93,15841.8,,1.732
+115,Australia,Asia Pacific,2019,162,7.8,19901.9,29.8,1.666
+16,China,Asia Pacific,2020,882,81.1,183216.0,24.2,1.868
+51,Netherlands,Europe,2015,100,4.0,5949.3,28,1.65
+86,Japan,Asia Pacific,2020,365,19.57,37232.3,29.4,1.58
+146,Canada,North America,2020,184,9.72,13577.4,61.3,1.51
+62,France,Europe,2016,126,6.39,9617.8,36.5,1.669
+134,Brazil,South America,2018,136,6.56,18225.3,48.8,1.716
+31,United Kingdom,Europe,2015,140,7.0,10820.0,25,1.75
+128,United Arab Emirates,Middle East,2022,126,8.5,26895.9,26.4,1.566
+52,Netherlands,Europe,2016,106,4.37,6416.6,30.4,1.606
+34,United Kingdom,Europe,2018,161,8.41,12885.1,32.4,1.655
+84,Japan,Asia Pacific,2018,337,17.79,35002.2,25.5,1.645
+108,South Korea,Asia Pacific,2022,278,15.38,28575.8,24.9,1.511
+95,Singapore,Asia Pacific,2019,122,7.39,16607.0,9.5,1.518
+33,United Kingdom,Europe,2017,154,7.96,12505.3,30.0,1.673
+142,Canada,North America,2016,148,7.48,10389.2,56.5,1.656
+121,United Arab Emirates,Middle East,2015,70,4.0,13361.7,,1.8
+44,Ireland,Europe,2018,84,4.53,6233.2,36.2,1.516
+54,Netherlands,Europe,2018,120,5.08,7591.8,34.7,1.545
+61,France,Europe,2015,120,6.0,10337.7,35,1.7
+22,Germany,Europe,2016,157,8.43,12455.1,32.1,1.665
+17,China,Asia Pacific,2021,952,89.85,191780.9,26.0,1.827
+148,Canada,North America,2022,205,10.92,14836.6,63.4,1.455
+117,Australia,Asia Pacific,2021,180,8.8,22518.9,33.6,1.627
+7,United States,North America,2021,1214,99.97,188559.2,29.2,1.763
+63,France,Europe,2017,132,6.68,10731.1,38.4,1.634
+37,United Kingdom,Europe,2021,185,9.74,15478.3,39.0,1.603
+139,Brazil,South America,2023,192,10.43,26438.9,55.5,1.564
+83,Japan,Asia Pacific,2017,324,16.72,35488.7,23.9,1.689
+18,China,Asia Pacific,2022,1028,99.36,217065.1,27.9,1.795
+97,Singapore,Asia Pacific,2021,143,8.87,18144.3,12.3,1.472
+79,India,Asia Pacific,2023,521,25.97,68498.8,39.5,1.583
+58,Netherlands,Europe,2022,154,7.05,11323.2,43.5,1.438
+106,South Korea,Asia Pacific,2020,245,12.97,26712.2,21.3,1.577
+147,Canada,North America,2021,194,10.26,14253.0,62.3,1.48
+21,Germany,Europe,2015,150,8.0,13459.3,30,1.7
+53,Netherlands,Europe,2017,113,4.69,6695.9,32.3,1.585
+103,South Korea,Asia Pacific,2017,204,10.3,21361.3,15.7,1.664
+8,United States,North America,2022,1302,107.82,204625.8,30.7,1.723
+149,Canada,North America,2023,216,12.06,17803.3,64.4,1.417
+96,Singapore,Asia Pacific,2020,132,8.16,18109.6,10.9,1.5
+49,Ireland,Europe,2023,149,18.83,16250.0,46.4,1.354
+81,Japan,Asia Pacific,2015,300,15.0,27951.0,20,1.75
+131,Brazil,South America,2015,110,5.0,12562.7,,1.8
+112,Australia,Asia Pacific,2016,137,-6.38,16482.3,23.8,1.726
+69,France,Europe,2023,175,9.96,15779.8,47.5,1.455
+64,France,Europe,2018,138,7.17,12064.1,40.0,1.593
+39,United Kingdom,Europe,2023,204,11.15,18044.0,43.3,1.54
+74,India,Asia Pacific,2018,329,14.06,39415.6,25.9,1.769
+14,China,Asia Pacific,2018,756,66.79,141952.7,20.8,1.912
+27,Germany,Europe,2021,199,11.57,19864.8,42.6,1.513
+72,India,Asia Pacific,2016,274,11.27,31641.8,,1.825
+13,China,Asia Pacific,2017,700,60.68,135078.1,18.8,1.949
+71,India,Asia Pacific,2015,250,10.0,27881.2,,1.85
+110,South Korea,Asia Pacific,2024,315,18.53,39252.0,28.2,1.434
+93,Singapore,Asia Pacific,2017,105,6.06,13589.4,7.0,1.553
+20,China,Asia Pacific,2024,1199,127.65,302989.4,31.8,1.731
+151,India,Asia Pacific,2019,361,15.77,43763.0,28.6,1.726
+100,Singapore,Asia Pacific,2024,180,12.44,25317.9,15.8,1.406
+101,South Korea,Asia Pacific,2015,180,9.0,18747.4,12,1.7
