@@ -111,8 +111,7 @@ walkthrough (M code, DAX measures, page-by-page layout).
 
 Data cleaning · CTEs (including chained/nested CTEs) · Window functions
 (`LAG`, `NTILE`, `AVG`/`STDDEV_POP` as window functions) · statistical anomaly
-detection · recognizing and correcting a naive-methodology pitfall (raw-level
-vs. growth-rate Z-scores) · Power Query (M) and DAX · translating a
+detection · Power Query (M) and DAX · translating a
 global/macro theme into a concrete, visualized analysis
 
 ## 8. How to Run
@@ -123,19 +122,3 @@ psql -U your_user -d your_database
 \i datacenter_sql_project.sql
 ```
 
-## 9. Resume / LinkedIn Bullet Point
-
-> Built an end-to-end analytics project on 10 years of global AI
-> data-center electricity/water consumption — performed data cleaning and
-> Z-score anomaly detection in both PostgreSQL and Power Query/DAX, and
-> designed a 4-page Power BI dashboard (trend, country tiering, anomaly
-> detection, efficiency) that surfaced a 134% single-year consumption spike
-> tied to AI infrastructure buildout.
-
-## 10. Possible Extensions
-
-- Add a correlation query between `renewable_energy_pct` and `avg_pue` to
-  test whether more renewable-heavy countries also run more efficient sites
-- Extend the anomaly detection to a rolling (e.g. 3-year window) Z-score
-  instead of a whole-series one, for a more production-realistic version
-- Add a Python/Streamlit front end as a third presentation layer
