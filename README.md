@@ -72,9 +72,7 @@ recent year, simply because the whole series trends upward — the most recent
 year is always furthest from the mean. Running the Z-score on each country's
 *year-over-year growth rate* instead fixes this, and surfaces two standout
 outliers:
-- **Ireland, 2023: electricity jumped 134% year-over-year (z ≈ 2.6)** — the
-  single sharpest spike in the dataset, consistent with a large new
-  AI-training facility coming online in one year
+**Growth pattern:** The simulated dataset shows faster electricity and water consumption growth during 2023–2024. This reflects the patterns represented in the dataset and should not be interpreted as independent evidence of an industry-wide inflection point.
 - **India, 2024: water consumption jumped 117% year-over-year (z ≈ 2.8)** —
   the sharpest water-specific anomaly, separate from its electricity trend
 - Several other countries (China, Canada, Singapore, Brazil) also show
@@ -93,11 +91,7 @@ The same cleaning and analysis logic (dedup, invalid-row filtering, YoY
 growth, tiering, Z-score anomaly detection) is rebuilt in Power Query/DAX and
 presented as a 4-page interactive dashboard — Overview, Country Tiering,
 Anomaly Detection, and Efficiency & Sustainability. See `powerbi/` for the
-`.pbix` file and screenshots, and `POWERBI_GUIDE.md` for the full build
-walkthrough (M code, DAX measures, page-by-page layout).
-
-![Overview](powerbi/screenshots/01_overview.png)
-![Anomaly Detection](powerbi/screenshots/03_anomaly_detection.png)
+`.pbix` file and screenshots.
 
 ## 6. Business Questions Answered (see `datacenter_sql_project.sql`)
 
@@ -109,13 +103,17 @@ walkthrough (M code, DAX measures, page-by-page layout).
 
 ## 7. Skills Demonstrated
 
-Data cleaning · CTEs (including chained/nested CTEs) · Window functions
-(`LAG`, `NTILE`, `AVG`/`STDDEV_POP` as window functions) · statistical anomaly
-detection · Power Query (M) and DAX · translating a
-global/macro theme into a concrete, visualized analysis
+SQL, Data Cleaning, CTEs, Window Functions, Trend Analysis, Z-Score Anomaly Detection, Power Query (M), DAX, Power BI Dashboard Design, and Data Visualization.
 
 ## 8. How to Run
 
+1. Clone or download this repository.
+2. Create a PostgreSQL database and prepare a table matching the raw dataset's columns.
+3. Import `data/datacenter_usage_raw.csv` into the database.
+4. Execute `sql/datacenter_sql_project.sql` in PostgreSQL to run the analysis.
+5. Open `powerbi/global_data_analysis.pbix` in Power BI Desktop to explore the dashboard.
+
+**Note:** Ensure the database table schema and CSV column names match the SQL script before running the analysis.
 ```
 psql -U your_user -d your_database
 \copy datacenter_raw FROM 'datacenter_usage_raw.csv' WITH (FORMAT csv, HEADER true);
