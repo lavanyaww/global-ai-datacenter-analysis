@@ -107,16 +107,8 @@ SQL, Data Cleaning, CTEs, Window Functions, Trend Analysis, Z-Score Anomaly Dete
 
 ## 8. How to Run
 
-1. Clone or download this repository.
-2. Create a PostgreSQL database and prepare a table matching the raw dataset's columns.
-3. Import `data/datacenter_usage_raw.csv` into the database.
-4. Execute `sql/datacenter_sql_project.sql` in PostgreSQL to run the analysis.
-5. Open `powerbi/global_data_analysis.pbix` in Power BI Desktop to explore the dashboard.
+Open `sql/datacenter_sql_project.sql` in PostgreSQL and execute the queries against a database containing the project dataset. Open `powerbi/global_data_analysis.pbix` in Power BI Desktop to explore the dashboard.
 
-**Note:** Ensure the database table schema and CSV column names match the SQL script before running the analysis.
-```
-psql -U your_user -d your_database
-\copy datacenter_raw FROM 'datacenter_usage_raw.csv' WITH (FORMAT csv, HEADER true);
-\i datacenter_sql_project.sql
+**Note:** Ensure the dataset is imported into PostgreSQL before running the SQL script.
 ```
 
