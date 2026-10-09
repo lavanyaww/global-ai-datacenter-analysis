@@ -111,4 +111,3 @@ Open `sql/datacenter_sql_project.sql` in PostgreSQL and execute the queries agai
 
 **Note:** Ensure the dataset is imported into PostgreSQL before running the SQL script.
 ```
-
